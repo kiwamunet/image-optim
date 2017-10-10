@@ -1,0 +1,6 @@
+package: github.com/kiwamunet/image-optim
+import:
+- package: code.cloudfoundry.org/bytefmt
+- package: gopkg.in/gographics/imagick.v2
+  subpackages:
+  - imagick

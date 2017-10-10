@@ -1,0 +1,11 @@
+hash: 2fd656036aa5df970d0f772c6893fba48ce41b7b9c519c739e6674a4d75d5b8f
+updated: 2017-10-05T18:47:49.000633909+09:00
+imports:
+- name: code.cloudfoundry.org/bytefmt
+  version: f4415fafc5619dd75599a54a7c91fb3948ad58bd
+- name: gopkg.in/gographics/imagick.v2
+  version: 3fa86e04cecbb52b3410c8937f4505f43841bcd6
+  subpackages:
+  - imagick
+  - imagick/types
+testImports: []
