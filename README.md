@@ -16,3 +16,7 @@
 
 ## Use:
 ```docker build -t image-optim . && docker run -it -p 8080:8080 image-optim image-optim```
+
+## sample
+
+![sample](./doc/image/screen.png "screen")
